@@ -1,0 +1,25 @@
+*** Changelog ***
+
+2024-08-20 - version 1.0.5
+* Fix - Refatoramento, bugfixes e melhorias diversas.
+
+2024-08-16 - version 1.0.4
+* Fix - Refatoramento e melhorias de segurança. 
+
+2024-08-06 - version 1.0.3
+* Enhancement - Opção de taxas sendo paga pelo estabelecimento ou pelo cliente.
+* Fix - Notas adicionadas como usuário do sistema.
+
+2024-08-01 - version 1.0.2 - 
+* Fix - Melhoria nas mensagens de retorno do pagamento com cartão
+
+2024-07-29 - version 1.0.1
+* Enhancement - Estorno em dois formatos: do portal para o Woocommerce e do Woocommerce para o Portal
+* Fix - Melhorias de desempenho
+* Fix - Correção de problemas
+
+2024-07-22 - version 1.0.0
+* Enhancement - Versão inicial - cobrança com cartão de crédito
+* Enhancement - Adicionado cobrança via PIX
+* Fix - Melhorias de desempenho
+* Fix - Correção de problemas

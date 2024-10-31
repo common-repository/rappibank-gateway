@@ -1,0 +1,114 @@
+# Copyright (C) 2024 Rappibank
+# This file is distributed under the GPLv2.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Rappibank Gateway 1.0.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/plugin\n"
+"POT-Creation-Date: 2024-08-19 14:46-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Gabriel Ayusso\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Domain: rappibank-gateway\n"
+"X-Source-Language: en\n"
+
+#. Plugin Name of the plugin
+#: rappibank-gateway.php
+msgid "Rappibank Gateway"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: rappibank-gateway.php
+msgid "https://rappibank.com.br"
+msgstr ""
+
+#. Description of the plugin
+#: rappibank-gateway.php
+msgid "Permite utilizar o Rappibank como forma de pagamento"
+msgstr ""
+
+#. Author of the plugin
+#: rappibank-gateway.php
+msgid "Rappibank"
+msgstr ""
+
+#: Rappibank_Gateway_Credit.php:49 Rappibank_Gateway_Credit.php:61
+msgid "Falha ao obter os dados de pagamento: "
+msgstr ""
+
+#: Rappibank_Gateway_Credit.php:79
+msgid "Código do cartão"
+msgstr ""
+
+#: Rappibank_Gateway_Credit.php:80
+msgid "CVC"
+msgstr ""
+
+#: Rappibank_Gateway_Credit.php:85
+msgid "Número do cartão"
+msgstr ""
+
+#: Rappibank_Gateway_Credit.php:89
+msgid "Nome do portador"
+msgstr ""
+
+#: Rappibank_Gateway_Credit.php:93
+msgid "CPF"
+msgstr ""
+
+#: Rappibank_Gateway_Credit.php:97
+msgid "Validade (MM/AA)"
+msgstr ""
+
+#: Rappibank_Gateway_Credit.php:98
+msgid "MM / AA"
+msgstr ""
+
+#: Rappibank_Gateway_Credit.php:143
+msgid "Habilitar/Desabilitar"
+msgstr ""
+
+#: Rappibank_Gateway_Credit.php:145
+msgid "Habilitar "
+msgstr ""
+
+#: Rappibank_Gateway_Credit.php:149
+msgid "Descrição"
+msgstr ""
+
+#: Rappibank_Gateway_Credit.php:151
+msgid "Insira a descrição que aparecerá para o cliente"
+msgstr ""
+
+#: Rappibank_Gateway_Credit.php:152
+msgid "Pagamentos com cartão de crédito"
+msgstr ""
+
+#: Rappibank_Gateway_Credit.php:155
+msgid "Mensagem"
+msgstr ""
+
+#: Rappibank_Gateway_Credit.php:157
+msgid "Insira a mensagem que aparecerá para o cliente quando selecionar esse meio de pagamento"
+msgstr ""
+
+#: Rappibank_Gateway_Credit.php:158
+msgid "Pagamentos com cartão de crédito via Rappibank"
+msgstr ""
+
+#: Rappibank_Gateway_Credit.php:216
+msgid "Falha ao processar o pagamento (retorno inválido): "
+msgstr ""
+
+#: Rappibank_Gateway_Credit.php:293 Rappibank_Gateway_Pix.php:180
+msgid "Pagamento concluído com sucesso."
+msgstr ""
+
+#: Rappibank_Gateway_Credit.php:299 Rappibank_Gateway_Pix.php:186
+msgid "Ocorreu um erro ao processar o pagamento. Por favor, tente novamente."
+msgstr ""

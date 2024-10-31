@@ -1,0 +1,20 @@
+.rppbr-select {
+  padding: 10px;
+  width: 100%!important;
+  border-color: #c2b9ce;
+  border-top-color: #b5aac3;
+  font-size: 1.1em;
+  padding: 8px;
+  background-repeat: no-repeat;
+  background-position: right .618em center;
+  background-size: 32px 20px;
+  box-sizing: border-box;
+}
+
+.wc-credit-card-form.wc-payment-form .input-text {
+  font-size: 1.5em!important;
+}
+.wc-credit-card-form.wc-payment-form .form-select {
+  font-size: 1.5em!important;
+  color: #111111;
+}

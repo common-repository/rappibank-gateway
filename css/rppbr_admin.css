@@ -1,0 +1,20 @@
+.rppbr_btn {
+  background-color: #db763e;
+  text-decoration: none;
+  color: #ffffff;
+  padding: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border-radius: 15px;
+  border-width: 0;
+}
+
+.rppbr_btn:hover {
+  cursor: pointer;
+  color: #ffffff;
+}
+
+.rppbr_full_width {
+  width: 100%;
+}
+
